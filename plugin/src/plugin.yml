@@ -1,0 +1,5 @@
+name: IceBlueFPS
+version: b0.1
+main: com.lilbrocodes.icebluefps.IceBlueFPS
+author: LilBroCodes / ScrapCraft / Zalán
+api-version: 1.19

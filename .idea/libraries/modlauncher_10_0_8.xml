@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="modlauncher-10.0.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server/libraries/cpw/mods/modlauncher/10.0.8/modlauncher-10.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

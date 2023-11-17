@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-lang-2.6-mohist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server/libraries/commons-lang/commons-lang/2.6-mohist/commons-lang-2.6-mohist.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

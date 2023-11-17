@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="coremods-5.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server/libraries/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

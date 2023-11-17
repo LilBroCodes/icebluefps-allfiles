@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mclanguage-1.19.4-45.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server/libraries/net/minecraftforge/mclanguage/1.19.4-45.2.0/mclanguage-1.19.4-45.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

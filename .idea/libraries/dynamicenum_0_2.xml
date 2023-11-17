@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dynamicenum-0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server/libraries/com/mohistmc/dynamicenum/0.2/dynamicenum-0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

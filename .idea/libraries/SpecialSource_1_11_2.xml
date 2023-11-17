@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SpecialSource-1.11.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server/libraries/net/md-5/SpecialSource/1.11.2/SpecialSource-1.11.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
