@@ -2,6 +2,7 @@ package com.lilbrocodes.icebluefps;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
+import java.util.Objects;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -16,8 +17,12 @@ public class IceBlueFPS extends JavaPlugin {
         logger.log(Level.INFO, " | |____\\__ \\ (_| |   | |_) |  __/ | | | (_|  __/    _  | |__| |");
         logger.log(Level.INFO, "  \\_____|___/\\__,_|   |____/ \\___|_| |_|\\___\\___|   (_) |_____/");
 
-    }
+        Objects.requireNonNull(getCommand("gamemode")).setExecutor(new GameModeCommand());
 
+        getServer().getPluginManager().registerEvents(new GUIListener(this), this);
+
+
+    }
     @Override
     public void onDisable() {
 
